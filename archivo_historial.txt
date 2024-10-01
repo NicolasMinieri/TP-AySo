@@ -1,0 +1,59 @@
+ls -l
+cd repogit/
+ll
+alias
+alias saludo = "echo $(whomai)" 
+alias saludo="echo $(whomai)" 
+apt install whoami
+escho hola
+apt install 
+cd repogit/
+cd TP-AySo/
+ll
+cd echo "tcpdump" > comando_dump_net
+cd echo -e "tcpdump" > comando_dump_net
+man echo
+cd echo -e "tcpdump" > comando_dump_net.txt
+ll
+echo -e "tcpdump" > comando_dump_net.txt
+ll
+cat comando_dump_net
+cat comando_dump_net.txt
+rm comando_dump_net
+ll
+cat comando_dump_net.txt 
+tcpdump man
+man tcpdump
+tcpdump -i any
+echo "tcpdump -i any" >> comando_dump_net.txt
+cat comando_dump_net.txt 
+git add .
+git commit -m [200~ “ADD: Comando para Capturar y analizar el tráfico de red ”
+git commit -m “ADD: Comando para Capturar y analizar el tráfico de red”
+git commit -m "ADD: Listado de usuarios ordenada"
+git push origin master
+ll
+man HereDoc
+cat << EOF >> README.md
+Alumno: Nicolas
+Division: Div 313
+Turno: noche
+EOF
+
+cat README.md 
+git add .
+git commit -m "feat: se agrego datos de alumno"
+git push origin master
+histori -a
+history -a
+cd ..
+ll
+cd TP-AySo/
+ll
+pwd
+cd /home/vagrant/
+pwd
+cd /repogit/TP-AySo/
+cd repogit/TP-AySo
+ll
+history -a 
